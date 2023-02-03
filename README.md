@@ -1,7 +1,7 @@
-# Python coding tips
+## Python coding tips
 
 
-## RBDB
+### RBDB
 
 * Notebooks
     - Jupyter, Apache Spark, Databricks coud, RMD, Jupyter R, Apache Zeppelin
